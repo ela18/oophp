@@ -1,8 +1,8 @@
 ##### Validatorer
 
 
-[HTML5](http://validator.w3.org/check/referer/)
+[PHP Mess Detector (phpmd)](https://phpmd.org/)
 
-[CSS](http://jigsaw.w3.org/css-validator/check/referer)
+[PHP_CodeSniffer (phpcs)](https://github.com/squizlabs/PHP_CodeSniffer/wiki)
 
 [Unicorn](http://validator.w3.org/unicorn/check?ucn_uri=referer&amp;ucn_task=conformance)

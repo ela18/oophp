@@ -19,8 +19,8 @@ views:
 Om
 ------
 
-De här webbsidorna är övningssidor inom kursen Design. Här testas och lärs olika
-tekniker med vars hjälp man som programmerare effektivt kan förbereda sin webbplats
-för design och användbarhet.
+De här webbsidorna är övningssidor inom kursen Oophp. Inom kursen
+hanterar vi objektorienterad PHP, enhetstestning, grunder i PHP-baserade ramverk 
+och databaser med ramverk.
 
 [FIGURE src=image/sol.jpg?w=500 class="sol" caption="Det klarnar väl snart."]
